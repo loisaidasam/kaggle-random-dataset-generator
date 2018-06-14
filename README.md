@@ -1,2 +1,2 @@
-# kaggle-random-dataset
+# kaggle-random-dataset-generator
 Kaggle Random Dataset Generator

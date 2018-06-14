@@ -1,6 +1,6 @@
 # Kaggle Random Dataset Generator
 
-A unique way to randomly look at Kaggle datasets.
+A unique way to randomly browse Kaggle datasets.
 
 [https://loisaidasam.github.io/kaggle-random-dataset-generator](https://loisaidasam.github.io/kaggle-random-dataset-generator)
 

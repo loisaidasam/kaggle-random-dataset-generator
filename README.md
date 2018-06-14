@@ -10,4 +10,4 @@ All data via [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 
 Tools for downloading data available in [/datasets-util](https://github.com/loisaidasam/kaggle-random-dataset-generator/tree/master/datasets-util)
 
-Author claims no ownership of nor responsibility for dataset contents. Explore at your own risk!
+Author claims no ownership of nor responsibility for datasets or their contents. Explore at your own risk!
